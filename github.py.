@@ -1,0 +1,10 @@
+# pasos para el flujo basico de git
+'''sh
+git status
+git add. git add-a
+git status
+git commid.-a."descripcion del cambio"
+git push
+'''
+
+# nota< EL MENSAJE DEL COMMID DEBE DE SE UNA ORACION  DESCRIPTIVA DEL CAMBIO
